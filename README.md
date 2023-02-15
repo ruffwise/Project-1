@@ -1,4 +1,4 @@
-# Project-1
+# Project-1: LAMP STACK IMPLEMENTATION
 
 ## Step 1 - Installing apache
 
